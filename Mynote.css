@@ -1,0 +1,163 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#heading{
+color:yellow;
+background-color:rgba(13, 89, 252, 0.862);
+width: 100%;
+position: fixed;
+border: 3px, solid, aqua;
+}
+
+body{
+background-color:white;
+}
+.contbook{
+width: 30%;
+height: 488px;
+padding: 10px;
+margin: 50px;
+background-color:black;
+color: white;
+font-size: larger;
+border-radius: 20px;
+text-align: center;  
+display: inline-block;
+vertical-align: top;
+min-width: 450px;
+overflow: scroll;
+}
+#h2{
+background-color:white;
+color:rgba(39, 7, 245, 0.926);
+border-radius: 8px;
+}
+#h3{
+text-align:right;
+margin-right: 25px;
+color:rgb(153, 213, 34);
+}
+#but1{
+width: 60px;
+background-color: rgb(21, 187, 209);
+box-shadow:2px 3px 0 0 gold;
+border: none;
+padding: 5px;
+border-radius: 5px;
+}
+#shadow{
+background-color: black;
+opacity:93%;
+width: 100%;
+height: 100%;
+position: fixed;
+top: 0;
+left: 0; 
+overflow:;
+display: none; 
+
+}
+#box{
+background-color: rgb(16, 231, 231);
+width: 300px;
+padding: 25px;
+position: absolute;
+top: 40%;
+left: 35%;
+border-radius: 10px;
+}
+#ip1{
+background: transparent;
+width: 98%;
+margin: 5px;
+border-radius: 5px;
+height: 23px;
+background-color: black;
+color: white;
+}
+#ip2{
+background: transparent;
+width: 98%;
+margin: 5px;
+border-radius: 5px;
+height: 23px;
+background-color: black;
+color: white;
+}
+#ip3{
+background: transparent;
+width: 98%;
+margin: 5px;
+border-radius: 5px;
+background-color: black;
+color: white;
+}
+#but2{
+width: 55px;
+height: 28px;
+border-radius: 10px;
+background-color: rgba(13, 89, 252, 0.862);
+position: absolute;
+right: 110px;
+bottom: 20px;
+cursor: pointer;
+
+}
+#but3{
+width: 55px;
+height: 28px;
+border-radius: 10px;
+background-color: rgba(13, 89, 252, 0.862);
+position: absolute;
+right: 30px;
+bottom: 20px;
+cursor: pointer;
+}
+
+#but4{
+font-size: 40px;
+height: 50px;
+width: 50px;
+position: fixed;
+left: 95%;
+bottom: 5%;
+border-radius: 50px;
+background-color: orangered;
+color:aqua;
+box-shadow:3px 0 0 3px rgba(13, 89, 252, 0.862);
+
+
+}
+#but5{
+box-shadow: 3px 0 0 3px rgba(13, 89, 252, 0.862);
+width: 50px;
+height: 50px;
+position: fixed;
+
+left: 95%;
+bottom: 15%;
+border-radius: 40px;
+background-color: yellow;
+color :rgba(13, 89, 252, 0.862);
+}
+#cont img{
+border-radius: 25px;
+}
+label{
+display: block;
+width: 85px;
+height: 23px;
+color: #fff;
+background-color: #e3362c;
+padding: 10px;
+
+top:465px;
+cursor: pointer;
+border-radius: 10px;
+
+
+}
+#cf{
+display: none;
+}
